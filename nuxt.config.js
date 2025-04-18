@@ -27,7 +27,7 @@ export default defineNuxtConfig({
         }
     },
     app: {
-        baseURL: '/nuxt-pool-catalog/'
+        baseURL: '/pool-catalog/'
     },
 
     compatibilityDate: '2025-04-18'
