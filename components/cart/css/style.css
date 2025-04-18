@@ -1,0 +1,23 @@
+.empty-cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 300px;
+    text-align: center;
+}
+
+.v-img {
+    border-radius: 4px;
+}
+
+/* Анимация при удалении товаров */
+.v-row-enter-active,
+.v-row-leave-active {
+    transition: all 0.3s ease;
+}
+.v-row-enter-from,
+.v-row-leave-to {
+    opacity: 0;
+    transform: translateX(-30px);
+}

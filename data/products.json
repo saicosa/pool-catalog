@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Бассейн AquaPro",
+    "price": 120000,
+    "image": "/images/pool1.jpg",
+    "description": "Каркасный бассейн диаметром 3.6 м"
+  },
+  {
+    "id": 2,
+    "title": "Бассейн Laguna",
+    "price": 98000,
+    "image": "/images/pool1.jpg",
+    "description": "Надувной бассейн с фильтром"
+  },
+  {
+    "id": 3,
+    "title": "Бассейн Premium",
+    "price": 240000,
+    "image": "/images/pool1.jpg",
+    "description": "Стационарный бассейн с подогревом"
+  },
+  {
+    "id": 4,
+    "title": "Бассейн Medium",
+    "price": 85000,
+    "image": "/images/pool1.jpg",
+    "description": "Стационарный бассейн с подогревом"
+  },
+  {
+    "id": 5,
+    "title": "Бассейн Base",
+    "price": 60000,
+    "image": "/images/pool1.jpg",
+    "description": "Стационарный бассейн с подогревом"
+  },
+  {
+    "id": 6,
+    "title": "Бассейн Child",
+    "price": 210000,
+    "image": "/images/pool1.jpg",
+    "description": "Стационарный бассейн с подогревом"
+  }
+]
