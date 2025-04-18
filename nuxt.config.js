@@ -1,6 +1,5 @@
 export default defineNuxtConfig({
     ssr: false,
-    loading: false,
     css: [
         'vuetify/styles',
         '@mdi/font/css/materialdesignicons.min.css',
